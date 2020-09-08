@@ -1,4 +1,4 @@
-package com.lucas;
+package com.lucas.LinkedList;
 
 public class LinkedListNode {
     String value;
